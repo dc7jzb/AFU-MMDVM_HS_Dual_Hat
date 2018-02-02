@@ -8,7 +8,7 @@ Sheet 1 1
 Title "MMDVM_HS_Dual_Hat"
 Date "2018-01-23"
 Rev "0.1"
-Comp "DB9MAT+DF2ET"
+Comp "DB9MAT+DF2ET+DO7EN"
 Comment1 ""
 Comment2 ""
 Comment3 ""
